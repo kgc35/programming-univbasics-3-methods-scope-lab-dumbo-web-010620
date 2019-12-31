@@ -17,4 +17,3 @@ def any_phrase(random_phrase)
   status = "Do A Barrel Roll!"
   puts status
 end
-
